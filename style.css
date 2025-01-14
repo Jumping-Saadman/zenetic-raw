@@ -1,0 +1,17 @@
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  background-color: #0e121e;
+}
+
+h1 {
+  color: #75b943;
+}
+
+.about-us-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 20px;
+  margin-top: 20px;
+}
